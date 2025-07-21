@@ -9,8 +9,8 @@ Esta é uma API RESTful para importar e expor **faixas musicais** via código IS
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/gabrielsilva17/oneRpm.git
-cd oneRpm
+git https://github.com/gabrielsilva17/desafioOneRpm.git
+cd desafioOneRpm
 ```
 ### 2. Crie a network Docker
 
